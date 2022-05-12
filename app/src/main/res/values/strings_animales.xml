@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Radiobutton1_animales_acuaticos">a) Sea Star</string>
+    <string name="Radiobutton2_animales_acuaticos">b) Sea Horse</string>
+    <string name="Radiobutton3_animales_acuaticos">c) Fish sword</string>
+
+    <string name="Radiobutton4_animales_acuaticos">a) Crab</string>
+    <string name="Radiobutton5_animales_acuaticos">b) Leon</string>
+    <string name="Radiobutton6_animales_acuaticos">c) Blowfish</string>
+
+    <string name="Radiobutton7_animales_acuaticos">a) Jellyfish</string>
+    <string name="Radiobutton8_animales_acuaticos">b) Sea Sponge</string>
+    <string name="Radiobutton9_animales_acuaticos">c) Sea Star</string>
+
+    <string name="Radiobutton10_animales_acuaticos">a) Clownfish</string>
+    <string name="Radiobutton11_animales_acuaticos">b) Octopus</string>
+    <string name="Radiobutton12_animales_acuaticos">c) Sea Star</string>
+
+    <string name="Radiobutton13_animales_acuaticos">a) Sea Turtle</string>
+    <string name="Radiobutton14_animales_acuaticos">b) Turtle</string>
+    <string name="Radiobutton15_animales_acuaticos">c) Crab</string>
+
+
+    <string name="Radiobutton1_animales_terrestres">a) Dog</string>
+    <string name="Radiobutton2_animales_terrestres">b) Horse</string>
+    <string name="Radiobutton3_animales_terrestres">c) Sea Horse</string>
+
+    <string name="Radiobutton4_animales_terrestres">a) Deer</string>
+    <string name="Radiobutton5_animales_terrestres">b) Pig</string>
+    <string name="Radiobutton6_animales_terrestres">c) Sheep</string>
+
+    <string name="Radiobutton7_animales_terrestres">a) Giraffe</string>
+    <string name="Radiobutton8_animales_terrestres">b) Duck</string>
+    <string name="Radiobutton9_animales_terrestres">c) Alligator</string>
+
+    <string name="Radiobutton10_animales_terrestres">a) Cat</string>
+    <string name="Radiobutton11_animales_terrestres">b) Cougar</string>
+    <string name="Radiobutton12_animales_terrestres">c) Lion</string>
+
+    <string name="Radiobutton13_animales_terrestres">a) Sheep</string>
+    <string name="Radiobutton14_animales_terrestres">b) Cow</string>
+    <string name="Radiobutton15_animales_terrestres">c) Camel</string>
+
+
+    <string name="Radiobutton1_animales_aereos">a) Duck</string>
+    <string name="Radiobutton2_animales_aereos">b) Ostrich</string>
+    <string name="Radiobutton3_animales_aereos">c) Eagle</string>
+
+    <string name="Radiobutton4_animales_aereos">a) Deer</string>
+    <string name="Radiobutton5_animales_aereos">b) Bee</string>
+    <string name="Radiobutton6_animales_aereos">c) Sheep</string>
+
+    <string name="Radiobutton7_animales_aereos">a) Raven</string>
+    <string name="Radiobutton8_animales_aereos">b) Bat</string>
+    <string name="Radiobutton9_animales_aereos">c) Owl</string>
+
+    <string name="Radiobutton10_animales_aereos">a) Worm</string>
+    <string name="Radiobutton11_animales_aereos">b) Butterfly</string>
+    <string name="Radiobutton12_animales_aereos">c) Ant</string>
+
+    <string name="Radiobutton13_animales_aereos">a) Toucan</string>
+    <string name="Radiobutton14_animales_aereos">b) Duck</string>
+    <string name="Radiobutton15_animales_aereos">c) Bird</string>
+
+
+</resources>

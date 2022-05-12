@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.proyectofinal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoFinal">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Contenido"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+
+        </activity>
+        <activity
+            android:name=".Animales"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".AnimalesAcuaticos"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".AnimalesTerrestres"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".AnimalesVoladores"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".Objetos_Actividades"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".Acciones"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".Hogar"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".Naturaleza"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+        <activity
+            android:name=".Examen"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+        </activity>
+    </application>
+
+</manifest>

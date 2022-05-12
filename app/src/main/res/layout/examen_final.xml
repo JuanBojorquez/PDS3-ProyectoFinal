@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ADD8E6"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="right">
+
+        <ImageButton
+            android:id="@+id/Btnatras"
+            android:layout_width="52dp"
+            android:layout_height="46dp"
+            android:background="@drawable/atras" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/texto_preguntas"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        app:srcCompat="@drawable/caballo_del_mar"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.09">
+
+        <RadioButton
+            android:id="@+id/Radiobutton_animales_acuaticos1"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton1_animales_acuaticos" />
+
+        <RadioButton
+            android:id="@+id/Radiobutton_animales_acuaticos2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton2_animales_acuaticos" />
+
+
+        <RadioButton
+            android:id="@+id/Radiobutton_animales_acuaticos3"
+            android:layout_width="127dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton3_animales_acuaticos" />
+
+    </RadioGroup>
+
+
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="119dp"
+        android:layout_height="122dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toStartOf="@+id/radioGroup2"
+        app:srcCompat="@drawable/refrigerador"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup5"
+        android:layout_width="334dp"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.13">
+
+        <RadioButton
+            android:id="@+id/Radiobutton_hogar13"
+            android:layout_width="88dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton13_hogar" />
+
+        <RadioButton
+            android:id="@+id/Radiobutton_hogar14"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton14_hogar" />
+
+        <RadioButton
+            android:id="@+id/Radiobutton_hogar15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton15_hogar" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="120dp"
+        android:layout_height="132dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toStartOf="@+id/radioGroup11"
+        app:srcCompat="@drawable/arbol"
+        tools:layout_editor_absoluteY="130dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup6"
+        android:layout_width="325dp"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.36">
+
+        <RadioButton
+            android:id="@+id/Radiobutton_natural4"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton4_naturaleza" />
+
+        <RadioButton
+            android:id="@+id/Radiobutton_natural5"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton5_naturaleza" />
+
+        <RadioButton
+            android:id="@+id/Radiobutton_natural6"
+            android:layout_width="123dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:text="@string/Radiobutton6_naturaleza" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/ButtonCalificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calcular" />
+
+    <Button
+        android:id="@+id/ButtonReniciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reniciar_respuestas" />
+</LinearLayout>

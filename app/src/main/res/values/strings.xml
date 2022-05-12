@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="nombre_usuario">Nombre del usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registro">Registrarse</string>
+    <string name="inicio_sesion">INICIO SESION</string>
+
+
+
+    <string name="texto_seleccion">You select categories</string>
+    <string name="animales">Animals</string>
+    <string name="texto_seleccion_sub">You select subcategories</string>
+    <string name="objetos_actividades">Objects and Activities</string>
+    <string name="animales_acuaticos">Aquatic Animals</string>
+    <string name="animales_terrestres">Land Animals</string>
+    <string name="animales_aereos">Flying Animals</string>
+    <string name="acciones">Actions</string>
+    <string name="hogar">Home</string>
+    <string name="naturaleza">Nature</string>
+
+    <string name="texto_preguntas">Answer this images mentions selecting multiple options</string>
+    <string name="todo">TODO</string>
+    <string name="calcular">Send</string>
+    <string name="reniciar_respuestas">Restart</string>
+    <string name="dar_click_para_iniciar_con_las_actividades">Dar click para iniciar con las actividades</string>
+    <string name="examen_final">End Quiz</string>
+
+
+
+</resources>

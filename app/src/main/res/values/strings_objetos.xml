@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Radiobutton1_acciones">a) Listen</string>
+    <string name="Radiobutton2_acciones">b) Dance</string>
+    <string name="Radiobutton3_acciones">c) Walk</string>
+
+    <string name="Radiobutton4_acciones">a) Dance</string>
+    <string name="Radiobutton5_acciones">b) Shout</string>
+    <string name="Radiobutton6_acciones">c) Sing</string>
+
+    <string name="Radiobutton7_acciones">a) Eat</string>
+    <string name="Radiobutton8_acciones">b) See</string>
+    <string name="Radiobutton9_acciones">c) Read</string>
+
+    <string name="Radiobutton10_acciones">a) Walk</string>
+    <string name="Radiobutton11_acciones">b) Run</string>
+    <string name="Radiobutton12_acciones">c) Jump</string>
+
+    <string name="Radiobutton13_acciones">a) Read</string>
+    <string name="Radiobutton14_acciones">b) See</string>
+    <string name="Radiobutton15_acciones">c) Sleep</string>
+
+
+    <string name="Radiobutton1_hogar">a) Mop</string>
+    <string name="Radiobutton2_hogar">b) Brush</string>
+    <string name="Radiobutton3_hogar">c) Broom</string>
+
+    <string name="Radiobutton4_hogar">a) Washer</string>
+    <string name="Radiobutton5_hogar">b) Stove</string>
+    <string name="Radiobutton6_hogar">c) Toilet</string>
+
+    <string name="Radiobutton7_hogar">a) Bed</string>
+    <string name="Radiobutton8_hogar">b) Refrigerator</string>
+    <string name="Radiobutton9_hogar">c) Washer</string>
+
+    <string name="Radiobutton10_hogar">a) Refrigerator</string>
+    <string name="Radiobutton11_hogar">b) bed</string>
+    <string name="Radiobutton12_hogar">c) Coffee Maker</string>
+
+    <string name="Radiobutton13_hogar">a) Mop</string>
+    <string name="Radiobutton14_hogar">b) Broom</string>
+    <string name="Radiobutton15_hogar">c) Toothbrush</string>
+
+
+    <string name="Radiobutton1_naturaleza">a) Sunflower</string>
+    <string name="Radiobutton2_naturaleza">b) Plant</string>
+    <string name="Radiobutton3_naturaleza">c) Flowers</string>
+
+    <string name="Radiobutton4_naturaleza">a) Tree</string>
+    <string name="Radiobutton5_naturaleza">b) Cactus</string>
+    <string name="Radiobutton6_naturaleza">c) Pine Tree</string>
+
+    <string name="Radiobutton7_naturaleza">a) Moon</string>
+    <string name="Radiobutton8_naturaleza">b) Earth</string>
+    <string name="Radiobutton9_naturaleza">c) Sun</string>
+
+    <string name="Radiobutton10_naturaleza">a) Sun</string>
+    <string name="Radiobutton11_naturaleza">b) Moon</string>
+    <string name="Radiobutton12_naturaleza">c) Mercury</string>
+
+    <string name="Radiobutton13_naturaleza">a) Cloud</string>
+    <string name="Radiobutton14_naturaleza">b) Lightning</string>
+    <string name="Radiobutton15_naturaleza">c) Moon</string>
+</resources>
